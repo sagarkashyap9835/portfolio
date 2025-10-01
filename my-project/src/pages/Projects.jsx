@@ -68,7 +68,7 @@ const Projects = () => {
               </h3>
               <p className="text-gray-600 text-sm mt-2 leading-relaxed">
                 {project.description}
-              </p>
+              </p> 
 
    
               <div className="flex flex-wrap gap-2 mt-3">
