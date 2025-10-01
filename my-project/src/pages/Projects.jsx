@@ -7,11 +7,11 @@ import portfolio from "../assets/portfolio2img.png";
 const projects = [
   {
     id: 1,
-    title: "Food Delivery App",
-    description: "This Food Delivery App is a fully responsive frontend project developed using React, Vite, and Tailwind CSS. The application provides an easy-to-use interface where users can browse food items by categories, view product images and details, and add them to the cart. The cart updates dynamically, showing item quantities and total price in real time. With its clean design and smooth user experience, the app effectively demonstrates a modern food delivery platform. (Note: This project is frontend-only without backend integration.)",
+    title: "Electromart App",
+    description: "ElectroMart is a modern online shopping app designed for all your electrical and electronic needs.It offers a wide range of products including home appliances, gadgets, and accessories.Users can browse categories like kitchen appliances, mobile devices, and lighting solutions with ease.The app provides secure login, smooth navigation, and a simple checkout process.With an integrated cart and order tracking system, customers can manage their purchases easily.Exclusive deals, discounts, and festive offers make shopping more affordable.ElectroMart ensures quality products, fast delivery, and reliable customer support for every buyer.",
     image: foodImg,
-    demoLink: "https://food-deliver-owner-sagar.netlify.app",
-    codeLink: "https://github.com/rockysingh728208/Deliver",
+    demoLink: "https://electromart-iivz.onrender.com",
+    codeLink: "https://github.com/sagarkashyap9835/raja-electronics",
     tech: ["React", "Redux"],
   },
   {
@@ -19,8 +19,8 @@ const projects = [
     title: "Portfolio Website",
     description: "Personal portfolio with animations and smooth navigation.",
     image: portfolio,
-    demoLink: "https://portfolio2-1-f5g6.onrender.com/",
-    codeLink: "https://github.com/rockysingh728208/portfolio2",
+    demoLink: "https://github.com/sagarkashyap9835/portfolio",
+    codeLink: "https://portfoliofrontend-enqw.onrender.com",
     tech: ["React", "Tailwind", "node.js,express.js,Mongodb"],
   },
   {
@@ -28,8 +28,8 @@ const projects = [
     title: "Appointment Booking App",
     description: "A doctor appointment booking application where patients can easily browse doctors, view availability, and book appointments online. It provides secure authentication, appointment tracking, and a smooth user experience.",
     image: appointmentImg,
-    demoLink: "https://mausam-frontend-swart.vercel.app",
-    codeLink: "https://github.com/rockysingh728208/mausam",
+    demoLink: "https://frontend-doctor.onrender.com",
+    codeLink: "https://github.com/sagarkashyap9835/appoint",
     tech: ["React", "Node.js", "Express.js"],
   },
 ];
