@@ -85,7 +85,7 @@ const Contact = () => {
 
     
       <div className="text-center text-gray-500 mt-12 border-t border-gray-700 pt-6">
-        © {new Date().getFullYear()} Deepa Kumari. All rights reserved.
+        © {new Date().getFullYear()} Vidya sagar. All rights reserved.
       </div>
     </div>
   );
