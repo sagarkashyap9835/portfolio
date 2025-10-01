@@ -35,7 +35,7 @@ export default function Hero() {
         {/* Social Links */}
         <div className="flex space-x-4 text-2xl">
           <a
-            href="https://www.linkedin.com/in/deepa-kumari-6ab9ab2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/vidya-sagar-a8517b338/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-500"
@@ -43,7 +43,7 @@ export default function Hero() {
             <FaLinkedin />
           </a>
           <a
-            href="https://github.com/deepakumari867"
+            href="https://github.com/sagarkashyap9835"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-500"

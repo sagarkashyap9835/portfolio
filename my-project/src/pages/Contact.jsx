@@ -40,8 +40,8 @@ const Contact = () => {
             <p><span className="font-semibold">✉️ Email:</span>vidyasagar983531@gmail.com</p>
           </div>
           <div className="flex space-x-6 mt-6">
-            <a href="https://github.com/deepakumari867/" target="_blank" rel="noreferrer" className="hover:text-gray-400">GitHub</a>
-            <a href="https://www.linkedin.com/in/deepa-kumari-6ab9ab2a6/" target="_blank" rel="noreferrer" className="hover:text-gray-400">LinkedIn</a>
+            <a href="https://github.com/sagarkashyap9835" target="_blank" rel="noreferrer" className="hover:text-gray-400">GitHub</a>
+            <a href="https://www.linkedin.com/in/vidya-sagar-a8517b338/" target="_blank" rel="noreferrer" className="hover:text-gray-400">LinkedIn</a>
           </div>
         </div>
 
