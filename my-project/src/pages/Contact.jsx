@@ -36,8 +36,8 @@ const Contact = () => {
           </p>
           <div className="space-y-3">
             <p><span className="font-semibold">📍 Location:</span> Rajpura, SVGOI, Chandigarh</p>
-            <p><span className="font-semibold">📞 Phone:</span> 9835313218</p>
-            <p><span className="font-semibold">✉️ Email:</span>deepakumari2301@gmail.com</p>
+            <p><span className="font-semibold">📞 Phone:</span> 7282089286</p>
+            <p><span className="font-semibold">✉️ Email:</span>vidyasagar983531@gmail.com</p>
           </div>
           <div className="flex space-x-6 mt-6">
             <a href="https://github.com/deepakumari867/" target="_blank" rel="noreferrer" className="hover:text-gray-400">GitHub</a>
