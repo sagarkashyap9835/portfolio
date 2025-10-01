@@ -2,7 +2,7 @@ import React from "react";
 import { Contact, ExternalLink, Github } from "lucide-react"; 
 
 import appointmentImg from "../assets/appoint.png";
-import foodImg from "../assets/foodimage.png";
+import foodImg from "../assets/buildmart.png";
 import portfolio from "../assets/portfolio2img.png";
 const projects = [
   {
