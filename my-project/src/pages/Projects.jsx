@@ -19,10 +19,12 @@ const projects = [
     title: "Portfolio Website",
     description: "Personal portfolio with animations and smooth navigation.",
     image: portfolio,
-    demoLink: "https://github.com/sagarkashyap9835/portfolio",
-    codeLink: "https://portfoliofrontend-enqw.onrender.com",
+    demoLink: "https://portfoliofrontend-enqw.onrender.com",
+    codeLink: "https://github.com/sagarkashyap9835/portfolio",
     tech: ["React", "Tailwind", "node.js,express.js,Mongodb"],
   },
+
+  
   {
     id: 3,
     title: "Appointment Booking App",
