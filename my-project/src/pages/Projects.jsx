@@ -12,7 +12,7 @@ const projects = [
     image: foodImg,
     demoLink: "https://electromart-iivz.onrender.com",
     codeLink: "https://github.com/sagarkashyap9835/raja-electronics",
-    tech: ["React", "Redux"],
+    tech: ["React.js", "Express.js","Node.js","Mongodb"],
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const projects = [
     image: appointmentImg,
     demoLink: "https://frontend-doctor.onrender.com",
     codeLink: "https://github.com/sagarkashyap9835/appoint",
-    tech: ["React", "Node.js", "Express.js"],
+    tech: ["React.js", "Node.js", "Express.js","Mongodb"],
   },
 ];
 
