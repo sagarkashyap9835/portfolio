@@ -48,13 +48,13 @@ const About = () => {
     </p>
   </div>
 
-  {/* UI / UX Designer */}
-  <div className="bg-gray-800 p-6 rounded-2xl shadow-lg hover:scale-105 transition transform hover:rotate-1">
+  
+  {/* <div className="bg-gray-800 p-6 rounded-2xl shadow-lg hover:scale-105 transition transform hover:rotate-1">
     <h2 className="text-2xl font-semibold mb-4 text-pink-400">UI / UX Design</h2>
     <p className="text-gray-300">
       Passionate about crafting intuitive interfaces, modern layouts, and smooth user experiences using Figma & design principles.
     </p>
-  </div>
+  </div> */}
 </div>
 
 
